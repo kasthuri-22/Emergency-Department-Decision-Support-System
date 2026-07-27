@@ -1,0 +1,11 @@
+DepartmentID,DepartmentName,Floor
+1,Emergency Medicine,1
+2,Cardiology,2
+3,Neurology,2
+4,Orthopedics,3
+5,Pediatrics,3
+6,General Medicine,4
+7,General Surgery,4
+8,ICU,5
+9,ENT,5
+10,Radiology,1

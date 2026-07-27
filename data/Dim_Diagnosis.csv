@@ -1,0 +1,41 @@
+DiagnosisID,DiagnosisName,Category,Severity
+1,Chest Pain,Cardiology,High
+2,Heart Attack,Cardiology,Critical
+3,Stroke,Neurology,Critical
+4,Migraine,Neurology,Medium
+5,Fracture,Orthopedics,Medium
+6,Sprain,Orthopedics,Low
+7,Asthma,Emergency,High
+8,Pneumonia,General Medicine,High
+9,Diabetes,General Medicine,Medium
+10,Appendicitis,General Surgery,High
+11,Burn,Emergency,High
+12,Fever,General Medicine,Low
+13,Food Poisoning,General Medicine,Medium
+14,Ear Infection,ENT,Low
+15,Sinusitis,ENT,Low
+16,Head Injury,Emergency,Critical
+17,Kidney Stone,General Medicine,High
+18,Sepsis,ICU,Critical
+19,COVID-19,General Medicine,High
+20,Flu,General Medicine,Low
+21,Hypertension,Cardiology,Medium
+22,Arrhythmia,Cardiology,High
+23,Epilepsy,Neurology,High
+24,Back Pain,Orthopedics,Low
+25,Arthritis,Orthopedics,Low
+26,Bronchitis,General Medicine,Medium
+27,Tonsillitis,ENT,Low
+28,Gallstones,General Surgery,Medium
+29,Trauma,Emergency,Critical
+30,Dehydration,General Medicine,Medium
+31,Allergic Reaction,Emergency,High
+32,Concussion,Neurology,Medium
+33,Fractured Arm,Orthopedics,Medium
+34,Fractured Leg,Orthopedics,High
+35,Appendix Rupture,General Surgery,Critical
+36,Eye Injury,Emergency,Medium
+37,Child Fever,Pediatrics,Low
+38,Child Asthma,Pediatrics,Medium
+39,Neonatal Infection,Pediatrics,Critical
+40,Internal Bleeding,ICU,Critical
