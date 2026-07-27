@@ -7,13 +7,13 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Emergency Departments experience unpredictable patient demand, prolonged waiting times, uneven departmental workloads, and varying patient satisfaction levels. This project presents an Executive Decision Support System that helps hospital management monitor operational performance, identify bottlenecks, and support data-driven decision-making through interactive dashboards.
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Monitor Emergency Department performance
 - Analyze patient demand and peak periods
@@ -25,7 +25,7 @@ Emergency Departments experience unpredictable patient demand, prolonged waiting
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 ### Page 1 – Executive Overview
 - Overall KPIs
@@ -53,7 +53,7 @@ Emergency Departments experience unpredictable patient demand, prolonged waiting
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 - High waiting times reduce patient satisfaction.
 - Certain departments experience greater operational pressure than others.
@@ -63,7 +63,7 @@ Emergency Departments experience unpredictable patient demand, prolonged waiting
 
 ---
 
-## 🚀 Strategic Recommendations
+##  Strategic Recommendations
 
 - Optimize patient flow in high-wait departments.
 - Balance doctor workload across shifts.
@@ -73,7 +73,7 @@ Emergency Departments experience unpredictable patient demand, prolonged waiting
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - Power BI
 - SQL
@@ -85,7 +85,7 @@ Emergency Departments experience unpredictable patient demand, prolonged waiting
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 📂 dashboard/
@@ -98,7 +98,7 @@ README.md
 
 ---
 
-## 📷 Dashboard Screenshots
+##  Dashboard Screenshots
 
 ### Executive Overview
 <img width="894" height="557" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/c8515cd8-963b-4b02-b036-b15ec2b43c77" />
